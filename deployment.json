@@ -1,0 +1,20 @@
+{
+  "network": "StudioNet",
+  "chainId": 61999,
+  "contractAddress": "0x0A2cd11D0a59B844bC9993D62404ec02E292c21A",
+  "deploymentTransaction": "0x140a6039c14864db2e0e611c7c87c2fa376305d6371c0afbae31c42a35d65445",
+  "deploymentStatus": "FINALIZED",
+  "deploymentExecution": "SUCCESS",
+  "sourceMatchVerified": true,
+  "wallet": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+  "walletMatchesOwner": true,
+  "smokeQueueTransaction": "0x57236ed722aace1069242f67a6f484f2a574bd0e6dbd1947db0de3089486dcf0",
+  "smokeScreenTransaction": "0x58b6661fec352787d26b93c9d3f20f3c38971afc59810af1b05c3fa8037ff7ff",
+  "smokeStatus": "FINALIZED",
+  "smokeExecution": "SUCCESS",
+  "smokeRecordId": "FIXTURE-1789230833",
+  "smokeRecordState": "FINAL",
+  "smokeVerdict": "SAFE",
+  "smokeDigestCount": 3,
+  "publicSite": "https://warnedwarn.github.io/prompt-firebreak/"
+}
