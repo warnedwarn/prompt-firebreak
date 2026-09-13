@@ -1,11 +1,12 @@
 # Prompt Firebreak
 
-Web evidence is data. Sometimes it also contains an instruction aimed at the system reading it. Prompt Firebreak gives a GenLayer workflow a hard boundary between those two things.
+Prompt Firebreak is a standalone GenLayer Intelligent Contract. It gives other contracts and applications a reusable boundary between public web evidence and instructions embedded inside that evidence.
 
 The caller declares one narrow extraction objective, an expected output schema, and exactly three HTTPS sources on distinct origins. Validators independently refetch each response, hash the full response bytes, and classify every source index exactly once. Only a bounded safe extract survives the screen.
 
-**Live instrument:** https://prompt-firebreak.pages.dev/  
 **StudioNet contract:** [`0x0A2c…c21A`](https://explorer-studio.genlayer.com/address/0x0A2cd11D0a59B844bC9993D62404ec02E292c21A)
+
+This repository intentionally contains no frontend application. Reviewers can inspect the deployed source and reproduce the contract lifecycle directly through GenLayer Explorer or the included scripts.
 
 ## What consensus decides
 

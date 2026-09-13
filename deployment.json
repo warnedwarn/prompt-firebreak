@@ -15,6 +15,5 @@
   "smokeRecordId": "FIXTURE-1789230833",
   "smokeRecordState": "FINAL",
   "smokeVerdict": "SAFE",
-  "smokeDigestCount": 3,
-  "publicSite": "https://prompt-firebreak.pages.dev/"
+  "smokeDigestCount": 3
 }
