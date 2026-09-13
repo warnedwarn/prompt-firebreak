@@ -4,7 +4,7 @@ Web evidence is data. Sometimes it also contains an instruction aimed at the sys
 
 The caller declares one narrow extraction objective, an expected output schema, and exactly three HTTPS sources on distinct origins. Validators independently refetch each response, hash the full response bytes, and classify every source index exactly once. Only a bounded safe extract survives the screen.
 
-**Live instrument:** https://warnedwarn.github.io/prompt-firebreak/  
+**Live instrument:** https://prompt-firebreak.pages.dev/  
 **StudioNet contract:** [`0x0A2c…c21A`](https://explorer-studio.genlayer.com/address/0x0A2cd11D0a59B844bC9993D62404ec02E292c21A)
 
 ## What consensus decides
